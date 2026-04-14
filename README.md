@@ -1,6 +1,6 @@
-# E-Commerce Shoes Website
+# E-Commerce shoesShowcasing Website
 
-Welcome to the E-Commerce Shoes Website project! This is a simple website showcasing a collection of shoes available for purchase. The website is built using HTML, CSS, and JavaScript.
+Welcome to the E-Commerce shoesShowcasing Website project! This is a simple website showcasing a collection of shoes available for purchase. The website is built using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
@@ -37,12 +37,6 @@ This section highlights the most popular and trending shoes available on the web
 In this section, customers can read and leave reviews for the products they've purchased. It provides a space for sharing feedback and building credibility.
 
 
-## Getting Started
-
-To run the website locally, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/shubham001official/e-commerce-website.git`
-2. Open the `index.html` file in your preferred web browser.
 
 ## Technologies Used
 
@@ -54,4 +48,4 @@ To run the website locally, follow these steps:
 
 If you have any questions or suggestions, feel free to reach out.
 
-Happy shopping! 👠👟👞
+Happy shopping! 👟
